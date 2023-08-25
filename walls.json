@@ -1,6 +1,55 @@
 [
 
 {
+		"name": "Pattern 1",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid921/Cream-walls/main/pattern1.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Cream-walls/main/pattern%201s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "Pattern 2",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid921/Cream-walls/main/pattern%202.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Cream-walls/main/pattern%202s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "Squares 1",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid921/Cream-walls/main/squares%201.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Cream-walls/main/squares%201s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "Squares 2",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid921/Cream-walls/main/squares%202.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Cream-walls/main/squares%202s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "Squares 3",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid921/Cream-walls/main/squares%203.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Cream-walls/main/squares%203s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+{
+		"name": "Squares 4",
+		"author": "SKwallpapers",
+		"url": "https://raw.githubusercontent.com/shahid921/Cream-walls/main/squares%204.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Cream-walls/main/squares%204s.jpg",
+		"downloadable" : "false",
+		"collections": "Vector"
+	},
+
+{
 		"name": "Abstract 1",
 		"author": "SKwallpapers",
 		"url": "https://raw.githubusercontent.com/shahid921/Cream-walls/main/48.jpg",
